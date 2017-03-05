@@ -1,3 +1,2 @@
 
-کانال ما
-@permag_ir
+@sezarinfo
