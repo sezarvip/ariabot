@@ -3400,6 +3400,7 @@ patterns ={
 "^[!/#](promote) (.*)$",
 "^[!/#](demote)$",
 "^[!/#](demote) (.*)$",
+"^[!/#](sezar)$",
 "^[!/#](modlist)$",
 "^[!/#](ownerlist)$",
 "^[!/#](lock) (.*)$",
